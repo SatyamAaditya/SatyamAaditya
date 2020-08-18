@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=satyamaaditya.com&style=for-the-badge&url=https%3A%2F%2Fsatyamaaditya.com)](https://www.satyamaaditya.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Satyam_Aaditya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyam_aaditya)
+[![Instagram Follow](https://img.shields.io/instagram/follow/SatyamAaditya?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/satyamaaditya)
 
 ## I'm a Blogger, Full Stack Developer, and Digital Marketing Expert!
 
