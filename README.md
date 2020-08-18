@@ -96,7 +96,7 @@
 
 </details>
 
-[website]: https://satyamaaditya.com
+[website]: https://www.satyamaaditya.com
 [twitter]: https://twitter.com/Satyam_Aaditya
 [youtube]: #
 [instagram]: https://instagram.com/SatyamAaditya
