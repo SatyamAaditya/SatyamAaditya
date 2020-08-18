@@ -1,6 +1,6 @@
 ### Hi there, I'm Satyam Aaditya - aka [code][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://satyamaaditya.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.satyamaaditya.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyam_aaditya)
 
 ## I'm a Blogger, Full Stack Developer, and Digital Marketing Expert!
