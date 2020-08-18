@@ -1,4 +1,4 @@
-### Hi there, I'm Satyam Aaditya - Visit [Code][code] 👋
+### Hi there, I'm Satyam Aaditya - Visit [Code][code] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=satyamaaditya.com&style=for-the-badge&url=https%3A%2F%2Fsatyamaaditya.com)](https://www.satyamaaditya.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Satyam_Aaditya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyam_aaditya)
@@ -6,13 +6,11 @@
 ## I'm a Blogger, Full Stack Developer, and Digital Marketing Expert!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to travel and play games.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -52,11 +50,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629z)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1defz)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-cozurse-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fblz)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.satyamaaditya.com)
