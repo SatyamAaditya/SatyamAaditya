@@ -50,6 +50,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Demo Post 2](http://feedproxy.google.com/~r/satyamaaditya/blog/~3/BMv5jcC1BmE/demo-post-2.html)
+- [Demo Post](http://feedproxy.google.com/~r/satyamaaditya/blog/~3/RVStJdlufiY/demo-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.satyamaaditya.com)
