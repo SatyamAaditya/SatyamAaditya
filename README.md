@@ -62,7 +62,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/mdn/beginner-html-site/pull/19) in [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site)
+1. 💪 Opened PR [#1](https://github.com/SatyamAditya/C-Program/pull/1) in [SatyamAditya/C-Program](https://github.com/SatyamAditya/C-Program)
 <!--END_SECTION:activity-->
 
 </details>
