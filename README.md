@@ -62,7 +62,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SatyamAditya/C-Program/pull/1) in [SatyamAditya/C-Program](https://github.com/SatyamAditya/C-Program)
+1. 💪 Opened PR [#6](https://github.com/akhiltushar/c-pro/pull/6) in [akhiltushar/c-pro](https://github.com/akhiltushar/c-pro)
 <!--END_SECTION:activity-->
 
 </details>
