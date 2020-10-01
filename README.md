@@ -62,7 +62,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#19](https://github.com/mdn/beginner-html-site/pull/19) in [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site)
 <!--END_SECTION:activity-->
 
 </details>
