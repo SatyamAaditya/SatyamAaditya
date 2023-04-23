@@ -14,20 +14,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://SatyamAaditya.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://SatyamAaditya.com#gh-dark-mode-only)
+[![img](./img/globe-light.svg)](https://SatyamAaditya.com#gh-light-mode-only)
+[![img](./img/globe-dark.svg)](https://SatyamAaditya.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@SatyamAaditya#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@SatyamAaditya#gh-dark-mode-only)
+[![img](./img/youtube-light.svg)](https://youtube.com/@SatyamAaditya#gh-light-mode-only)
+[![img](./img/youtube-dark.svg)](https://youtube.com/@SatyamAaditya#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Satyam_Aaditya#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Satyam_Aaditya#gh-dark-mode-only)
+[![img](./img/twitter-light.svg)](https://twitter.com/Satyam_Aaditya#gh-light-mode-only)
+[![img](./img/twitter-dark.svg)](https://twitter.com/Satyam_Aaditya#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/SatyamAaditya#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/SatyamAaditya#gh-dark-mode-only)
+[![img](./img/linkedin-light.svg)](https://linkedin.com/in/SatyamAaditya#gh-light-mode-only)
+[![img](./img/linkedin-dark.svg)](https://linkedin.com/in/SatyamAaditya#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/SatyamAaditya#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/SatyamAaditya#gh-dark-mode-only)
+[![img](./img/instagram-light.svg)](https://instagram.com/SatyamAaditya#gh-light-mode-only)
+[![img](./img/instagram-dark.svg)](https://instagram.com/SatyamAaditya#gh-dark-mode-only)
 
 <br />
 
@@ -79,3 +79,4 @@
 [youtube]: https://youtube.com/@SatyamAaditya
 [instagram]: https://instagram.com/SatyamAaditya
 [linkedin]: https://linkedin.com/in/SatyamAaditya
+[img]: https://codeSTACKr.com
