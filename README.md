@@ -14,16 +14,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![website](./img/globe-light.svg)](https://SatyamAaditya.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://SatyamAaditya.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/@SatyamAaditya#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@SatyamAaditya#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Satyam_Aaditya#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Satyam_Aaditya#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/SatyamAaditya#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/SatyamAaditya#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/SatyamAaditya#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/SatyamAaditya#gh-dark-mode-only)
 
 <br />
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />][website]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][website]
@@ -66,6 +76,6 @@
 [website]: https://www.satyamaaditya.com
 [code]: https://code.satyamaaditya.com
 [twitter]: https://twitter.com/Satyam_Aaditya
-[youtube]: #
+[youtube]: https://youtube.com/@SatyamAaditya
 [instagram]: https://instagram.com/SatyamAaditya
 [linkedin]: https://linkedin.com/in/SatyamAaditya
